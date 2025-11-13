@@ -1,0 +1,18 @@
+{
+  "name": "int-222",
+  "version": "1.0.0",
+  "description": "first js code in node ",
+  "license": "ISC",
+  "author": "aditya",
+  "type": "commonjs",
+  "main": "first.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "express-validator": "^7.3.0",
+    "lodash": "^4.17.21",
+    "moment": "^2.30.1"
+  }
+}
