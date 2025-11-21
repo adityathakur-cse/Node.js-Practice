@@ -44,3 +44,10 @@ app.get('/logout', (req, res) => {
 app.listen(port, () => {
     console.log(`Server is running at http://localhost:${port}`);
 });
+
+//TASK
+// Create a social media platform in which 
+// User should be able to register
+// Session should be used in such a way that user should be remembered
+// User should have profile page to check all details
+// At the end, give an option to delete account
