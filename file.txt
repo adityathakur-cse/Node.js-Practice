@@ -1,6 +1,1 @@
-Name: Aditya Thakur , Email: abc@gmail.com
-Name: abc, Email: abc@gmail.comName: shubh, Email: abc@gmail.com
-Name: adxi, Email: adityakumarthakur10a.jssp@gmail.com, Age: 20
-Name: lefihd, Email: adityakumarthakur10a.jssp@gmail.com
-Name: lefihd, Email: adityakumarthakur10a.jssp@gmail.com
-Name: wq, Email: adityakumarthakur10a.jssp@gmail.com
+Subject code is INT 222./nThis is a file content of javascript
