@@ -1,1 +1,1 @@
-This is file system 15804
+This is a file content of javascript
