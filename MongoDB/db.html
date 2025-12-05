@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FORM</title>
+</head>
+<body>
+    <h1><u><i>Simple CRUD Operation with Express + Mongoose</i></u></h1>
+    <h2>Add Products : </h2>
+    <form action="/add" method="post">
+        <input type="text" name="name" placeholder="Product name" required><br>
+        <input type="number" name="price" placeholder="Product price" required><br>
+        <button type="submit">ADD</button>
+    </form>
+    <hr>
+    <h2>View all Products : </h2>
+    <form action="/read" method="post">
+        <button type="submit">VIEW PRODUCTS</button>
+    </form>
+    <hr>
+    <h2>Update Product</h2>
+    <form action="/update" method="post">
+        <input type="text" name="id" placeholder="Product ID" required><br>
+        <input type="text" name="name" placeholder="Product New Name" required><br>
+        <input type="text" name="price" placeholder="Product New Price" required><br>
+        <button type="submit">UPDATE</button>
+    </form>
+    <hr>
+    <h2>Delete Product</h2>
+    <form action="/delete" method="post">
+        <input type="text" name="id" placeholder="Product ID" required><br>
+        <button type="submit">DELETE</button>
+    </form>
+    <hr>
+    
+</body>
+</html>
